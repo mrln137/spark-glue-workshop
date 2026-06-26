@@ -7,3 +7,6 @@ construido con AWS Glue Studio, Step Functions y Athena.
 
 ### Paso 0 — Alerta de presupuesto
 ![Budget creado en Billing](evidence/step_0_budget.png)
+
+### Paso 2 — Bucket S3 con las 5 carpetas
+![Bucket del Data Lake](evidence/step_2_s3_bucket.png)
